@@ -1,0 +1,28 @@
+{
+  "meeting": [
+    {
+      "id": 1,
+      "Title": "Coffee date",
+      "When": "2 jan",
+      "Where": "Skövde"
+    },
+    {
+      "id": 2,
+      "Title": "Study date",
+      "When": "every Monday",
+      "Where": "Tibro"
+    },
+    {
+      "id": 3,
+      "Title": "Wedding",
+      "When": "13 Jun",
+      "Where": "Hjo"
+    },
+    {
+      "id": 4,
+      "Title": "Fiesta",
+      "When": "6 May",
+      "Where": "Örebro"
+    }
+  ]
+}
